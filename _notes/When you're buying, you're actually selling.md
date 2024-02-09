@@ -2,7 +2,6 @@
 title: When you're buying, you're actually selling
 layout: page
 ---
-<img src="{{ site.baseurl }}/assets/image.jpg"/>
 
 This idea came to me while reading a book called "The E-myth". One section in particular describing Ray Kroc's main insight from McDonalds was that he wasn't in the business of selling hamburgers, he was in the business of selling McDonald's *the business* to other business owners ( franchisees ). Obviously the main idea here is that as a small business owner, you should be thinking about the business as a whole as the main product. Working *on* the business, not *in* it. [^1]: This is a footnote. For more information about using footnotes, check out the [Michael Gerber's The E Myth](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)
 
@@ -23,3 +22,5 @@ The main insight being: **You should be thinking about selling, and who you'll b
 Analyzing your exit scenarios with this in mind now becomes lot more grounded in reality. 
 
 There are a ton of other insights to gain from doing your underwriting from the perspective of the future buyer and will completely change which numbers to focus on. 
+
+<img src="{{ site.baseurl }}/assets/thebull.jpeg"/>
