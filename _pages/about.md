@@ -8,7 +8,7 @@ I live in Los Angeles. I am currently working at [Updater](https://updater.com/)
 
 I'm interested in technology, real estate, investing, and health. I spend the rest of my time listening to music, reading, and spending time outdoors. 
 
-## Elsewhere
+### Elsewhere
 
 - Send me a DM on [twitter](twitter.com/remykartz)
 - Email me. my full name at gmail. 
@@ -16,7 +16,7 @@ I'm interested in technology, real estate, investing, and health. I spend the re
 
 
 
-## Currently reading
+### Currently reading
 
  - [How to Make a Few Billion Dollars by Brad Jacobs](https://www.amazon.com/How-Make-Few-Billion-Dollars/dp/B0CHTQP25T) 
  - [The E-Myth by Michael Gerber ](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)
@@ -24,7 +24,7 @@ I'm interested in technology, real estate, investing, and health. I spend the re
 
 
 
-## About this site
+### About this site
 
 this site is built/written with jekyll/markdown and is based on this open-source template [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
