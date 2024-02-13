@@ -4,14 +4,15 @@ title: About
 permalink: /about
 ---
 
-I'm from New Jersey. I live in Los Angeles. I am currently working at [Updater](https://updater.com/) as a Software Engineer. 
+I live in Los Angeles. I am currently working at [Updater](https://updater.com/) as a Software Engineer. I also run a Shopify app called [Gifted](https://apps.shopify.com/gifted-1). 
 
 I'm interested in technology, real estate, investing, and health. I spend the rest of my time listening to music, reading, and spending time outdoors. 
 
-## Get in touch
+## Elsewhere
 
 - Send me a DM on [twitter](twitter.com/remykartz)
 - Email me. my full name at gmail. 
+- [rkartzman](https:github.com/rkartzman) on Github
 
 
 
