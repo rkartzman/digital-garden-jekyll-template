@@ -5,6 +5,7 @@ id: home
 permalink: /
 ---
 
+You'll find things here that inspire me. More [[about|about me]].
 
 <strong>writing</strong>
 
