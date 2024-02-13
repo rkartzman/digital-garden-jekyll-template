@@ -4,6 +4,27 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+I'm from New Jersey. I live in Los Angeles. I am currently working at [Updater](https://updater.com/) as a Software Engineer. 
 
-Feel free to tell the world about what you love! 😍
+I'm interested in technology, real estate, investing, and health. I spend the rest of my time listening to music, reading, and spending time outdoors. 
+
+## Get in touch
+
+- Send me a DM on [twitter](twitter.com/remykartz)
+- Email me. my full name at gmail. 
+
+
+
+## Currently reading
+
+ - [How to Make a Few Billion Dollars by Brad Jacobs](https://www.amazon.com/How-Make-Few-Billion-Dollars/dp/B0CHTQP25T) 
+ - [The E-Myth by Michael Gerber ](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)
+ - [Shantarm by Gregory David Roberts](https://www.amazon.com/Shantaram-Novel-Gregory-David-Roberts/dp/0312330537/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.NfZdG5gG829ZKHz95VWDj3lxWsRNrqRycGKfC25Okg3AmCdOl8vMMTDbU15rdqfur7o5TfuAwsrDDCS1I5gZKhVhXVNMqrPa6vmOMik-QwzRMznKKwNOvFieOAHzAoeTVzDwN2HphK_LmbAFTPbzVt4G9WHLdoHH0M6YBWDZ81pAQbuTin7WiNUEgLimVKjNX21wCoLmNVfWWDMRsyK1wgO205qSDtIRcFZ77HUH45Y.oWPApU2LsK9oX_rEy-vCjSOgypxaYWY4mdq049RSOD4&qid=1707860049&sr=1-1)
+
+
+
+## About this site
+
+this site is built/written with jekyll/markdown and is based on this open-source template [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+
+You can read about the [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
