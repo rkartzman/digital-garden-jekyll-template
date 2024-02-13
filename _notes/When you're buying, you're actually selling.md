@@ -3,7 +3,8 @@ title: When you're buying, you're actually selling
 layout: page
 ---
 
-This idea came to me while reading a book called "The E-myth". One section in particular describing Ray Kroc's main insight from McDonalds was that he wasn't in the business of selling hamburgers, he was in the business of selling McDonald's *the business* to other business owners ( franchisees ). Obviously the main idea here is that as a small business owner, you should be thinking about the business as a whole as the main product. Working *on* the business, not *in* it [^1]. 
+This idea came to me while reading a book called "The E-myth". One section in particular describing Ray Kroc's main insight from McDonalds was that he wasn't in the business of selling hamburgers, he was in the business of selling McDonald's *the business* to other business owners ( franchisees ). Obviously the main idea here is that as a small business owner, you should be thinking about the business as a whole as the main product. Working *on* the business, not *in* it. [^1]
+
 [^1]:  [Michael Gerber's The E Myth](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)
 
 But this got me thinking about the business of buying real estate as an investment. 
