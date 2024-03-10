@@ -1,0 +1,12 @@
+---
+title: Markets are like surf breaks
+---
+There are surf breaks all over the world, and within each area there are usually micro breaks that people gravitate towards as their "home break". Every time you surf a new break, you are confronted with certain tradeoffs between wave quality, surfer density, *vibe*, etc. As a beginner, you wouldn't start out by surfing Pipeline. That's obvious. But you might try to surf a beginner friendly wave, but anti-beginner crowd at Malibu. If you did, you'd be trading wave quantity for quality of wave. Your feedback loop will be really large, since you'll have to wait your turn, and navigate the crowd. 
+
+By contrast, you can go to any stretch of beach in santa monica and venice and paddle for as many waves as you can handle, but you'll surf a shitty wave. 
+
+Markets have similar tradeoffs. You can try to go to new york city and invest in real estate, but you'll be competing with a huge pool of experienced investors who have an insiders advantage over you, with more money and more resources at their disposal. Not to mention you'll have a much higher capital hurdle to even get in the game. But you'll also be in a much higher quality market that can withstand pretty much any macro-economic event, that might completely wipe you out in other markets. 
+
+On the other hand, if you try to enter a tertiary market, with a smaller population but not as attractive demographic profile ( the crappy beach break with no crowd ), you'll actually have a shot at dropping in on a wave. The trade-off here is you'll be limited in the upside, since a dynamic market like NYC can effectively make you rich on just a handful of deals, you'll need to be much more strategic about your investment thesis and either go for scale within that market or use it as a stepping stone to a better, more dynamic market. 
+
+For me, I like the idea of the small market where you can quickly build relationships and quickly find your competitive advantage by knowing a market inside and out. In investing, like in surfing, investing in areas where there are a lot of people trying to do the exact same thing will result in margin compression, or as Sam Zell liked to say, "Competition, that's for other people". 
