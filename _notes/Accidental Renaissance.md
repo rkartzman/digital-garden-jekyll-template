@@ -10,7 +10,7 @@ Coincidentally, the next day, I was re-watching the movie "The Intern" and there
 
 Some art moves you and you don't know why. Some people's stories and experience resonate differently, or convince you that the knowledge they've gained comes from a place or experience that given the choice, would rather not have endured.
 
-Jeremy Giffon, in his interview on Invest Like the Best [^2], talks about binaries of people, and one that resonated with me is whether someone is Before or After their fall, and everyone is one of the two. I love this binary framing and find it deeply insightful to the question of why certain people, art, music, have the capacity to move you more than others. It's the experience that comes out the other side of hardship, and is directly correlated to that persons capacity for suffering. 
+Jeremy Giffon, in his interview on Invest Like the Best [^2], talks about binaries of people, and one that resonated with me is whether someone is Before or After their fall, and everyone is one of the two. I love this binary framing and find it deeply insightful to the question of why certain people, art, music, have the capacity to move you more than others. It's the wisdom that comes out the other side of hardship, and is directly correlated to that persons capacity for suffering.  
 
 <img src="{{ site.baseurl }}/assets/billieholiday.jpg"/>
 
