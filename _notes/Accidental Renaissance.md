@@ -1,7 +1,7 @@
 
 I saw a photo on twitter the other day. It was part of a tweet thread entitled: "Photos that look like paintings". There was one that completely moved me. It's the photo of Billie Holiday singing "Strange Fruit" in a night club[^1]  in New York City. Not knowing the history of the photo, I admit my first reaction was one of nostalgia. I knew the gravitas of Billie's voice and naively imagined how incredible it would have been to be sitting in nightclub in Greenwich Village in the 30s listening to a generational talent croon her heart out not 5 feet from you. But beyond that there was clearly something profound in the emotion of the photo. 
 
-[^1]: (Cafe Society)[https://en.wikipedia.org/wiki/Caf%C3%A9_Society]
+[^1]: [Cafe Society](https://en.wikipedia.org/wiki/Caf%C3%A9_Society)
 
 A few days after, I was interviewing a potential lead engineer to join our team. My teammate and I got together after the call and both agreed that there was something missing from the candidate's answers. Every answer was seemingly "correct" and backed up by knowledge and expertise of his craft. But the delivery felt formulaic. Almost ai generated. They lacked emotion. Emotion that comes from experience on the other side of hardship. 
 
@@ -15,4 +15,4 @@ Jeremy Giffon, in his interview on Invest Like the Best [^2], talks about binari
 <img src="{{ site.baseurl }}/assets/billieholiday.jpg"/>
 
 
-[^2]: (Pre/Post Fall)[https://share.snipd.com/post/c425a621-8d47-4790-9970-167ff34ffb33]
+[^2]: [Jeremy Giffon on Pre/Post Fall](https://share.snipd.com/post/c425a621-8d47-4790-9970-167ff34ffb33)
