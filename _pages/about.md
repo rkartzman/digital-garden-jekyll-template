@@ -12,7 +12,7 @@ think yiddish, act british.
 
 - Send me a DM on [twitter](twitter.com/remykartz)
 - Email me. my full name at gmail. 
-- [rkartzman](https:github.com/rkartzman) on Github
+- [rkartzman](https://github.com/rkartzman) on Github
 
 
 
