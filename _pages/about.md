@@ -21,7 +21,9 @@ I live in Los Angeles. I am currently working at [Updater](https://updater.com/)
  - [The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing](https://www.amazon.com/Success-Equation-Untangling-Business-Investing/dp/1422184234)
  - [Never Enough](https://www.amazon.com/Never-Enough-Billionaire-Andrew-Wilkinson/dp/1637744765)
 
+### Book Notes
 
+* [[The Success Equation]]
 
 
 ### About this site
