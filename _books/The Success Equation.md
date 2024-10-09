@@ -12,4 +12,4 @@ p.28
 
 > attributing success to any strategy may be wrong simply because you're sampling only the winners. The more important questions is: How many of the companies that tried that strategy actually succeeded ? ... Say two companies pursue the same strategy, and one succeeds because of luck while the other fails. Since we draw our sample from the outcome, not the strategy, we observe the successful company and assume the strategy was good.
 
-p.39
+p.39 
