@@ -31,7 +31,9 @@ collections:
   notes:
     output: true
     permalink: /:slug
-
+  books:
+    output: true
+    permalink: /:collection/:name
 defaults:
   - scope:
       path: "**/*"
@@ -39,5 +41,9 @@ defaults:
       layout: "default"
   - scope:
       path: "_notes/**/*.md"
+    values:
+      layout: "note"
+  - scope:
+      path: "_books/**/*.md"
     values:
       layout: "note"
