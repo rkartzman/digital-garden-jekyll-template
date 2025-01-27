@@ -14,9 +14,9 @@ I live in Los Angeles. I am currently working at [Updater](https://updater.com/)
 
 ### Currently reading
 
+- [Common Stocks and Uncommon Profits](https://www.amazon.com/Common-Stocks-Uncommon-Profits-Writings)
+- [The Zurich Axioms](https://www.amazon.com/Zurich-Axioms-reward-generations-bankers/dp/1897597495)
 - [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661)
-- [The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing](https://www.amazon.com/Success-Equation-Untangling-Business-Investing/dp/1422184234)
-- [Never Enough](https://www.amazon.com/Never-Enough-Billionaire-Andrew-Wilkinson/dp/1637744765)
 
 ### Book Notes
 
