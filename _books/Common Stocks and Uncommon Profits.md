@@ -1,4 +1,6 @@
-
+---
+title: Common Stocks and Uncommon Profits
+---
 
 ## When to buy: 
 
