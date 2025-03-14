@@ -1,3 +1,6 @@
+---
+---
+
 
 
 **Did the Native Americans make a good deal when they sold Manhattan to the Dutch for $24?**

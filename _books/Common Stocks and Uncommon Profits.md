@@ -53,3 +53,17 @@ Ask yourself, "Am I selling out of this opportunity due to fear of something I c
 The idea of when to sell can be summed up with the following: 
 > If the job has been correctly done when a common stock is purchased, the time to sell it is -- almost never
 > pp. 113
+
+
+
+
+### Quotes
+
+William Shakespeare: 
+> there is a tide in the affairs of men which, taken at the flood, leads on to fortune
+
+> Never promote someone who hasn't made some bad mistakes, because if you do, you are promoting someone who has never done anything -- Dr Herbert Dow
+> pp 254 
+
+> If you can't do a thing better than others, don't do it at all -- Dr Herbert Dow
+> pp 255 
